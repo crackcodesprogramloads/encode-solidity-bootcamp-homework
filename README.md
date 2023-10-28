@@ -74,6 +74,7 @@ https://sepolia.etherscan.io/tx/0x3478026ed2ac0fa3c66230f40cfd6de1962901160551eb
 https://sepolia.etherscan.io/tx/0x4d03c66f16ed2e82988e421992a5d89a7824e439c3aa1a023415b247429931e1
 
 ## Mike's transactions
+### Calling HelloWorld returned "I'm get owned.. not the owner."
 ### Transferred ownership to Tomo H
 https://sepolia.etherscan.io/tx/0xd63546cca19b52ab553097c66b9fa6d2aa167f6d75a5fe2acee4b23691db386e
 
@@ -89,6 +90,7 @@ https://sepolia.etherscan.io/tx/0x55007aea66304f22d5fedb78e66d2f77053cfca8d13b7e
 When trying to set text when not the owner. The tx would fail.
 
 ## Mike's transactions
+### Calling HelloWorld returned "rekt"
 
 
 

@@ -64,5 +64,12 @@ https://sepolia.etherscan.io/tx/0x7f8183fc95d560cb1035a8fe66697cf0283f80a45ef8f5
 https://sepolia.etherscan.io/tx/0x9294bc28d8d9e0f6bc7cfba45857c71bc153f196d1ac447a9ba3fb4bed9723a6
 
 ## Loren's transactions
+https://sepolia.etherscan.io/tx/0x3478026ed2ac0fa3c66230f40cfd6de1962901160551eb52813a2a1176b6055e
+### Setting text to "I'm get owned.. not the owner."
+### Transferring contract ownership back to Mike
+https://sepolia.etherscan.io/tx/0x4d03c66f16ed2e82988e421992a5d89a7824e439c3aa1a023415b247429931e1
+
+## Mike's transactions
+
 
 

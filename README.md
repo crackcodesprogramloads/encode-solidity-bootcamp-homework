@@ -60,8 +60,9 @@ interface HelloWorldInterface {
 ```
 ### Setting text to "Hello team 1!"
 https://sepolia.etherscan.io/tx/0x7f8183fc95d560cb1035a8fe66697cf0283f80a45ef8f58dd0a03d5e7a169097
-### Transferring contract ownership to *
+### Transferring contract ownership to Loren
+https://sepolia.etherscan.io/tx/0x9294bc28d8d9e0f6bc7cfba45857c71bc153f196d1ac447a9ba3fb4bed9723a6
 
-## * transactions
+## Loren's transactions
 
 

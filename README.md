@@ -70,6 +70,21 @@ https://sepolia.etherscan.io/tx/0x3478026ed2ac0fa3c66230f40cfd6de1962901160551eb
 https://sepolia.etherscan.io/tx/0x4d03c66f16ed2e82988e421992a5d89a7824e439c3aa1a023415b247429931e1
 
 ## Mike's transactions
+### Transferred ownership to Tomo H
+https://sepolia.etherscan.io/tx/0xd63546cca19b52ab553097c66b9fa6d2aa167f6d75a5fe2acee4b23691db386e
+
+## Tomo H transations
+## Set text to "rekt"
+https://sepolia.etherscan.io/tx/0xb4913540df7479ee802bd0f87121619ce1ab4751bc9ef30419e8357c8c4f7dc0
+
+## Transferring contract ownership to Mike
+https://sepolia.etherscan.io/tx/0x55007aea66304f22d5fedb78e66d2f77053cfca8d13b7e9112445a9ec0a01133
+
+## Tried setting text
+"We were not able to estimate gas. There might be an error in the contract and this transaction may fail."
+When trying to set text when not the owner. The tx would fail.
+
+## Mike's transactions
 
 
 

@@ -100,6 +100,8 @@ https://sepolia.etherscan.io/tx/0x88017f2748c8d9598a387da6f74a431980227f60b525a8
 ### Transferring contract ownership back to Mike
 https://sepolia.etherscan.io/tx/0xfa45aee0c721f24b76beed7916e21faeecba5ca580b2ec1474f7842d23b7b899
 
+👍 many thx to teammates for setup and walkthrough!
+
 ## Monk's transactions
 ##SetText Hello
 https://sepolia.etherscan.io/tx/0x36d1bba6b6056db3c795b53c385dc872cbc1500c958bf8774b16c9b851ebd1f8
@@ -107,8 +109,14 @@ https://sepolia.etherscan.io/tx/0x36d1bba6b6056db3c795b53c385dc872cbc1500c958bf8
 ###Transferring ownership back to Mike
 https://sepolia.etherscan.io/tx/0x88d16ddf3c7a3219344b3b0857e300f08d368027c7231e004946259ccfdef2d1
 
+## Mike's transactions
+### Transferring contract ownership to cerise
+https://sepolia.etherscan.io/tx/0x4aceefd96335e9d4a2855aa68393734947e7808baee43f25288fe96f1a5ed281
 
-👍 many thx to teammates for setup and walkthrough!
+## Cerise transactions
+###
+
+
 
 
 

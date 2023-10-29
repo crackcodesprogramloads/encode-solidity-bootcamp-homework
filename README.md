@@ -114,7 +114,12 @@ https://sepolia.etherscan.io/tx/0x88d16ddf3c7a3219344b3b0857e300f08d368027c7231e
 https://sepolia.etherscan.io/tx/0x4aceefd96335e9d4a2855aa68393734947e7808baee43f25288fe96f1a5ed281
 
 ## Cerise transactions
-###
+
+### SetText "Thank you! 🙇‍♂️👨🏻‍💻 "
+https://sepolia.etherscan.io/tx/0xa9a6e3e22da73b8a70827d26712c2b1fa5c4ce458064023b28f2e6f8d9c0d2af
+
+### Transferring ownership back to Mike @ 0x6912de196118f7e53c4af94c35e783d7af7b3552
+https://sepolia.etherscan.io/tx/0x14dbc87af2cefa689d769276a498d3bcf77e622431ffec821c0388a9c85dd7e5
 
 
 

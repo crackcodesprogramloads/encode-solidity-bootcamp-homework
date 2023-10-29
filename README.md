@@ -103,10 +103,10 @@ https://sepolia.etherscan.io/tx/0xfa45aee0c721f24b76beed7916e21faeecba5ca580b2ec
 👍 many thx to teammates for setup and walkthrough!
 
 ## Monk's transactions
-##SetText Hello
+### SetText Hello
 https://sepolia.etherscan.io/tx/0x36d1bba6b6056db3c795b53c385dc872cbc1500c958bf8774b16c9b851ebd1f8
 
-###Transferring ownership back to Mike
+### Transferring ownership back to Mike
 https://sepolia.etherscan.io/tx/0x88d16ddf3c7a3219344b3b0857e300f08d368027c7231e004946259ccfdef2d1
 
 ## Mike's transactions

@@ -95,6 +95,13 @@ When trying to set text when not the owner. The tx would fail.
 https://sepolia.etherscan.io/tx/0xa6616add6c7f89f28bee8066aefaf7fec59443163d9cb47b25c340dfe5b5c7f3
 
 ## Kent's transactions
+### Set text to "woohoo"
+https://sepolia.etherscan.io/tx/0x88017f2748c8d9598a387da6f74a431980227f60b525a806ac0421aca7555d87
+
+### Transferring contract ownership back to Mike
+https://sepolia.etherscan.io/tx/0xfa45aee0c721f24b76beed7916e21faeecba5ca580b2ec1474f7842d23b7b899
+
+👍 many thx to teammates for setup and walkthrough!
 
 
 

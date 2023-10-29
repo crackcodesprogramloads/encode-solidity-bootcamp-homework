@@ -91,6 +91,11 @@ When trying to set text when not the owner. The tx would fail.
 
 ## Mike's transactions
 ### Calling HelloWorld returned "rekt"
+### Transferring contract ownership to Kent
+https://sepolia.etherscan.io/tx/0xa6616add6c7f89f28bee8066aefaf7fec59443163d9cb47b25c340dfe5b5c7f3
+
+## Kent's transactions
+
 
 
 

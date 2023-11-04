@@ -79,7 +79,7 @@ main().catch((error) => {
     process.exitCode = 1;
 });
 
-##WinningProposal.ts
+###@Monk's Additional functions:WinningProposal.ts
 import { ethers } from "hardhat";
 import * as dotenv from 'dotenv';
 import { Ballot, Ballot__factory } from "../typechain-types";

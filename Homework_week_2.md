@@ -1,7 +1,7 @@
 #Weekend 2 Homework 
 Team 1's exercise to Connect to Ballot.sol over public blockchain and perform interactions
 
-##Tasks
+##Tasks 
 This is a group activity for at least 3 students:
 Develop and run scripts for “Ballot.sol” within your group to give voting rights, casting votes, delegating votes and querying results
 Write a report with each function execution and the transaction hash, if successful, or the revert reason, if failed

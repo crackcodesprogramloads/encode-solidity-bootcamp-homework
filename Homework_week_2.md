@@ -35,7 +35,7 @@ Error: execution reverted: "Already voted." (action="estimateGas", data="0x08c37
 ta": "0x0121b93f0000000000000000000000000000000000000000000000000000000000000001
 
 
-#Additional functions:
+#@Monk's Additional functions:
 ##GiveRightToVote.ts
 import { ethers } from "hardhat";
 import * as dotenv from 'dotenv';

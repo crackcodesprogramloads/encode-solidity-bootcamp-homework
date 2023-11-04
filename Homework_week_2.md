@@ -7,21 +7,21 @@ Develop and run scripts for “Ballot.sol” within your group to give voting ri
 Write a report with each function execution and the transaction hash, if successful, or the revert reason, if failed
 Submit your code in a github repository in the form
 
-## @Monk's transactions:
-### Deploy the contract
+### @Monk's transactions:
+#### Deploy the contract
 Transaction hash: https://sepolia.etherscan.io/tx/0x94921437371a17cd33dcaebf70efc3d0bb827ea9f99fb8d345680f15f2ad9a88
 Contract hash:0xec5bfec0298b373a6b57cb4f0b4403fcb5dae33a
 
-### Provide voting rights to Mike
+#### Provide voting rights to Mike
 https://sepolia.etherscan.io/tx/0x76d999cb5efe2f9c6f27aa3aaa76f69163b867ccce8e95e5fd760e217883fc66
 
-### Receive vote from Mike
+#### Receive vote from Mike
 https://sepolia.etherscan.io/tx/0x1ce6084038279d75a8d5075e1b18d6ebc614c41d68d65a2f4de1755516b02730
 
-### Cast my vote:
+#### Cast my vote:
 https://sepolia.etherscan.io/tx/0x8e62959fcee2101b8967cc57da4577c383e5f7eb505984be1fc48e0eba71efbd
 
-### Again cast vote:
+#### Again cast vote:
 Again case vote:
 Error:
 Last block number: 4626614
@@ -35,8 +35,8 @@ Error: execution reverted: "Already voted." (action="estimateGas", data="0x08c37
 ta": "0x0121b93f0000000000000000000000000000000000000000000000000000000000000001
 
 
-# @Monk's Additional functions:
-## GiveRightToVote.ts
+### @Monk's Additional functions:
+#### GiveRightToVote.ts
 import { ethers } from "hardhat";
 import * as dotenv from 'dotenv';
 import { Ballot, Ballot__factory } from "../typechain-types";
@@ -79,7 +79,7 @@ main().catch((error) => {
     process.exitCode = 1;
 });
 
-## @Monk's Additional functions:WinningProposal.ts
+#### @Monk's Additional functions:WinningProposal.ts
 import { ethers } from "hardhat";
 import * as dotenv from 'dotenv';
 import { Ballot, Ballot__factory } from "../typechain-types";

@@ -18,8 +18,18 @@ https://sepolia.etherscan.io/tx/0x76d999cb5efe2f9c6f27aa3aaa76f69163b867ccce8e95
 #### Receive vote from Mike
 https://sepolia.etherscan.io/tx/0x1ce6084038279d75a8d5075e1b18d6ebc614c41d68d65a2f4de1755516b02730
 
-#### Cast my vote:
+#### Cast my vote::
 https://sepolia.etherscan.io/tx/0x8e62959fcee2101b8967cc57da4577c383e5f7eb505984be1fc48e0eba71efbd
+
+### Output of get the winning proposal:
+C:\Users\HP\Desktop\temp\project2>npx ts-node ./scripts/WinningProposal.ts 0xeC5
+bfeC0298B373a6B57cB4F0B4403FcB5DAe33A
+Last block number: 4626658
+Last block timestamp: 1699077216 (11/4/2023 1:53:36 PM)
+Using address 0xF122871816918a04108E051Caa31c6438718b61e
+Wallet balance 0.46192266584245767 ETH
+1n
+
 
 #### Again cast vote:
 Again case vote:

@@ -132,4 +132,8 @@ main().catch((error) => {
     process.exitCode = 1;
 });
 
+### Mike's transactions
+#### Casting a vote to proposal 1
+https://sepolia.etherscan.io/tx/0x1292257b22bdf4cd9159a0a8d0c6d850f77a9e7b73d4d5d86ba75c35b3e07c3c
+
 

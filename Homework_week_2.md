@@ -136,4 +136,12 @@ main().catch((error) => {
 #### Casting a vote to proposal 1
 https://sepolia.etherscan.io/tx/0x1292257b22bdf4cd9159a0a8d0c6d850f77a9e7b73d4d5d86ba75c35b3e07c3c
 
+### Kent's txns
+#### Vote for proposal 1
+https://sepolia.etherscan.io/tx/0xeb2b7c6218693d3559d286523226de0befd63fa337303e4e7ba492d1a2299796
 
+#### Delegate
+https://sepolia.etherscan.io/tx/0x6d6bfa651dc27d0190e67d8cfd62ae224f0e2f3ca7e4be7b11991db92af013dc
+
+#### Delegated voter cannot use delegated vote if that voter has already voted
+https://sepolia.etherscan.io/tx/0x8f88c329c604db6ac52bb3008adac581a45bc07ecf910d6fa3141ffd06a78fcd

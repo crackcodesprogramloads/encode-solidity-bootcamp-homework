@@ -136,6 +136,44 @@ main().catch((error) => {
 #### Casting a vote to proposal 1
 https://sepolia.etherscan.io/tx/0x1292257b22bdf4cd9159a0a8d0c6d850f77a9e7b73d4d5d86ba75c35b3e07c3c
 
+--------------------------------------------------------------------------------------------------------
+
+### t0m0's transactions
+#### Deploying a new contract
+https://sepolia.etherscan.io/address/0xef50e690f7f446565db61b6aa3403c53601a7432
+#### Voting proposal 1
+https://sepolia.etherscan.io/tx/0x8dfcc661b40efd2cff3a8a24b23014c5725ee058a07b6528547c22e0d48614b6
+#### Gave Mike the right to vote
+https://sepolia.etherscan.io/tx/0x6b0ed45be0aaa79eca2ba1a9eb783f4ef1c2b800f43f34f7c4ad81946c79d627
+#### Gave Loren the right to vote
+https://sepolia.etherscan.io/tx/0xbf38d8b49fbd515866c40a780f00b71fd66a93c83fab1df90ee2335f27786cf5
+
+### Mike's transactions
+#### Delegating a vote to Loren
+https://sepolia.etherscan.io/tx/0x2860a1455623b12e4f0e069ccbf7b6d21ac1536f2c70219f0aad1223f5e76715
+
+### Loren's transactions
+#### Vote for proposal 1
+https://sepolia.etherscan.io/tx/0x659585c1d6e9e2fa1977737c2669c321d625f4f7e9d5143e7c28603614e408d3
+
+------------------------------------------------------------------------------------------------------
+
+### Cerise transactions
+#### Deploying new contract
+https://sepolia.etherscan.io/tx/0xb6b1b1d7652b0c12b098e88dbd032010c4102399fa04d8fa7067577585ceff57
+#### Giving Mike right to vote
+https://sepolia.etherscan.io/tx/0xef6fe7918c93bd1ae37c7a208a3bbc2d1eaf92e4d533c595fbd39ab1ba81a4ee
+#### Giving Kent's first address right to vote
+https://sepolia.etherscan.io/tx/0xed43047bc8315528953f26f95c97bbb1b1f5fe2d8da591979e603dc6d45d8fd7
+#### Giving Kent's second address right to vote
+https://sepolia.etherscan.io/tx/0xc3b96241b68e6e8f612c36b41c153dbfc9462922eeeff5322e13115605411710
+#### Voting proposal 4
+https://sepolia.etherscan.io/tx/0x303ba8fc5fa8bb2d7fd6a7e8384bc089f6fc61ec6fb6aac7ebae8ca78921cf34
+
+### Mike's transactions
+#### Delegating a vote to Cerise
+https://sepolia.etherscan.io/tx/0x1292257b22bdf4cd9159a0a8d0c6d850f77a9e7b73d4d5d86ba75c35b3e07c3c
+
 ### Kent's txns
 #### Vote for proposal 1
 https://sepolia.etherscan.io/tx/0xeb2b7c6218693d3559d286523226de0befd63fa337303e4e7ba492d1a2299796

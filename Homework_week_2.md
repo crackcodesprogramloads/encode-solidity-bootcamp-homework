@@ -159,27 +159,20 @@ https://sepolia.etherscan.io/tx/0x659585c1d6e9e2fa1977737c2669c321d625f4f7e9d514
 ------------------------------------------------------------------------------------------------------
 
 ### Cerise transactions
-#### Deploying new contract
-https://sepolia.etherscan.io/tx/0xb6b1b1d7652b0c12b098e88dbd032010c4102399fa04d8fa7067577585ceff57
-#### Giving Mike right to vote
-https://sepolia.etherscan.io/tx/0xef6fe7918c93bd1ae37c7a208a3bbc2d1eaf92e4d533c595fbd39ab1ba81a4ee
-#### Giving Kent's first address right to vote
-https://sepolia.etherscan.io/tx/0xed43047bc8315528953f26f95c97bbb1b1f5fe2d8da591979e603dc6d45d8fd7
-#### Giving Kent's second address right to vote
-https://sepolia.etherscan.io/tx/0xc3b96241b68e6e8f612c36b41c153dbfc9462922eeeff5322e13115605411710
-#### Voting proposal 4
-https://sepolia.etherscan.io/tx/0x303ba8fc5fa8bb2d7fd6a7e8384bc089f6fc61ec6fb6aac7ebae8ca78921cf34
 
-### Mike's transactions
-#### Delegating a vote to Cerise
-https://sepolia.etherscan.io/tx/0x1292257b22bdf4cd9159a0a8d0c6d850f77a9e7b73d4d5d86ba75c35b3e07c3c
+source code: [ballot.ts](https://github.com/ehamery/solidity-bootcamp/blob/master/scripts/ballot.ts)
 
-### Kent's txns
-#### Vote for proposal 1
-https://sepolia.etherscan.io/tx/0xeb2b7c6218693d3559d286523226de0befd63fa337303e4e7ba492d1a2299796
+- Cerise [deploys](https://sepolia.etherscan.io/tx/0xb6b1b1d7652b0c12b098e88dbd032010c4102399fa04d8fa7067577585ceff57) new [contract](https://sepolia.etherscan.io/address/0x46e892554b33b92ac8112b63b76a5bede2da0cf1)
+- Cerise [gives right to vote](https://sepolia.etherscan.io/tx/0xef6fe7918c93bd1ae37c7a208a3bbc2d1eaf92e4d533c595fbd39ab1ba81a4ee) to Mike
+- Cerise [gives right to vote](https://sepolia.etherscan.io/tx/0xed43047bc8315528953f26f95c97bbb1b1f5fe2d8da591979e603dc6d45d8fd7) to Kent's address 1
+- Cerise [gives right to vote](https://sepolia.etherscan.io/tx/0xc3b96241b68e6e8f612c36b41c153dbfc9462922eeeff5322e13115605411710) to Kent's address 2
+- Mike [delegates](https://sepolia.etherscan.io/tx/0x1292257b22bdf4cd9159a0a8d0c6d850f77a9e7b73d4d5d86ba75c35b3e07c3c) vote to Cerise
+- Kent 1 [vote failure, invalid index](https://sepolia.etherscan.io/tx/0x4d84bb36b44d4dda395833ad50a6ce210102709fdc1047c5b199014a98054919)
+- Kent 1 [vote failure, invalid index](https://sepolia.etherscan.io/tx/0x6e55a1d3618a8a6ad7c8654ba308249cc8af8ecf91eff13aec6faab88b46bb79)
+- Kent 2 [vote failure, invalid index](https://sepolia.etherscan.io/tx/0x2858e1f861db8cc0cf64731019af726eb0dfc6c6eb6de7064a3249d14490316f)
+- Cerise [votes](https://sepolia.etherscan.io/tx/0x303ba8fc5fa8bb2d7fd6a7e8384bc089f6fc61ec6fb6aac7ebae8ca78921cf34) for proposals[4]
+- Kent 2 [votes](https://sepolia.etherscan.io/tx/0xeb2b7c6218693d3559d286523226de0befd63fa337303e4e7ba492d1a2299796) for proposals[1]
+- Kent 1 [delegates](https://sepolia.etherscan.io/tx/0x6d6bfa651dc27d0190e67d8cfd62ae224f0e2f3ca7e4be7b11991db92af013dc) vote to Kent 1
+- Kent 2 [tries to vote again](https://sepolia.etherscan.io/tx/0xbafc4b63672984218902b0aeb538861b718f4bca07b4225922b6040276da5b59)
+- Kent 2 [tries to vote again](https://sepolia.etherscan.io/tx/0x8f88c329c604db6ac52bb3008adac581a45bc07ecf910d6fa3141ffd06a78fcd)
 
-#### Delegate
-https://sepolia.etherscan.io/tx/0x6d6bfa651dc27d0190e67d8cfd62ae224f0e2f3ca7e4be7b11991db92af013dc
-
-#### Delegated voter cannot use delegated vote if that voter has already voted
-https://sepolia.etherscan.io/tx/0x8f88c329c604db6ac52bb3008adac581a45bc07ecf910d6fa3141ffd06a78fcd
